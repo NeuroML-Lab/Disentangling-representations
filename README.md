@@ -1,6 +1,6 @@
 # Neural Networks Are More Modular Than They Appear
 
-This repository contains the code accompanying the paper **“Neural Networks Are More Modular Than They Appear.”**
+This repository contains the code accompanying the paper **[“Neural Networks Are More Modular Than They Appear.”](https://arxiv.org/abs/2610.12842)**
 
 The synthetic datasets used in the paper can be found **[here](https://huggingface.co/datasets/shreyasaha25/Neural-Network-Modularity/tree/main)**.
 
