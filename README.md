@@ -81,7 +81,7 @@ The analyses for the language-model experiments are performed directly in the **
 
 ## 4. Brain Data Analysis
 
-The preprocessed **Natural Scenes Dataset (NSD)** brain data used in this paper can be obtained **[here](#)**.
+The preprocessed **Natural Scenes Dataset (NSD)** brain data used in this paper can be obtained **[here](https://osf.io/wh35d/?view_only=202cd5926f094b2693095f744ffdafbc)**.
 
 The script **vision_brain_data_inferences.py** runs the ablation studies on visual brain areas using the learned visual transformations.
 
